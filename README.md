@@ -51,8 +51,6 @@ run the example script:
 node src/example.js
 ```
 
-the HTML files will be saved locally inside `/src`
-
 ---
 
 this is meant for **personal/educational use** only. use responsibly.
